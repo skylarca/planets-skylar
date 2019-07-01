@@ -1,1 +1,3 @@
-*.dat
+
+/data
+!data/a.dat
